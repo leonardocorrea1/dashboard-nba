@@ -8,7 +8,7 @@ e manipular esses dados utilizando a ferramenta MySQL Workbench.</p>
 
 ![image](![image](https://user-images.githubusercontent.com/47828514/223485322-a848771d-1fdc-4b57-bd57-66e161fdfb4c.png)
 )
-)
+
 
 
 <h2> REQUISITOS e PASSO A PASSO: </h2>
