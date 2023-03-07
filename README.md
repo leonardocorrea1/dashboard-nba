@@ -6,8 +6,8 @@ pela Resilia. Após escolher qual tema, iremos analisar
 e manipular esses dados utilizando a ferramenta MySQL Workbench.</p>
 
 
-![image](![image](https://user-images.githubusercontent.com/47828514/223485322-a848771d-1fdc-4b57-bd57-66e161fdfb4c.png)
-)
+![nba image](https://user-images.githubusercontent.com/47828514/223487021-a5c45d36-bb23-4567-9127-ddcf887846dc.jpg)
+
 
 
 
