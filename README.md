@@ -6,7 +6,8 @@ pela Resilia. Após escolher qual tema, iremos analisar
 e manipular esses dados utilizando a ferramenta MySQL Workbench.</p>
 
 
-![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pixelstalk.net%2Fnba-wallpapers-hd-free-download%2F&psig=AOvVaw3IhSQXrrSxZO3z_9SXZW2m&ust=1678292241134000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMD2t_qbyv0CFQAAAAAdAAAAABAE)
+![image](![image](https://user-images.githubusercontent.com/47828514/223484884-81ecfac7-dcd2-46a9-b0b6-1e64717daccd.png)
+)
 
 
 <h2> REQUISITOS e PASSO A PASSO: </h2>
