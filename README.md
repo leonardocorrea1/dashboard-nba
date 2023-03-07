@@ -98,8 +98,6 @@ exploratória feita em cima do conjunto de dados selecionados. </p>
     
 <p> Links:</p>
    
-   <p> Links:</p>
-
 <h2>Leonardo Corrêa: </h2>
 <p> <a href="https://github.com/leonardocorrea1" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" style="border-radius: 30px"></a> </p>
    
