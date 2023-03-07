@@ -5,10 +5,7 @@ no conjunto de dados que nos foi disponibilizado
 pela Resilia. Após escolher qual tema, iremos analisar
 e manipular esses dados utilizando a ferramenta MySQL Workbench.</p>
 
-
-![nba image](https://user-images.githubusercontent.com/47828514/223487021-a5c45d36-bb23-4567-9127-ddcf887846dc.jpg)
-
-
+![NBA-App-Avatar-3D-Dentro-Quadras](https://user-images.githubusercontent.com/47828514/223507200-891711f0-a259-47a5-b6ab-eea0d002f115.jpg)
 
 
 <h2> REQUISITOS e PASSO A PASSO: </h2>
