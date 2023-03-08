@@ -99,7 +99,7 @@ exploratória feita em cima do conjunto de dados selecionados. </p>
 ![times-mais-derrotas (1)](https://user-images.githubusercontent.com/47828514/223850520-3fb8cbde-e395-4914-99cf-6421e286e587.png)
   <h1> 🏀 TIMES MAIS ANTIGOS </h1>
   
-
+![times-mais-antigos (1)](https://user-images.githubusercontent.com/47828514/223851285-f082fe88-aa69-4f27-8183-8ed1b02b8b1a.png)
   <h1> 🏀 MAIORES ARENAS</h1>
   
 <img src = "https://github.com/themonsteer/db-nba/blob/main/graficos/maiores-arenas.PNG?raw=true">
