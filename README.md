@@ -78,8 +78,9 @@ exploratória feita em cima do conjunto de dados selecionados. </p>
 
 ![times-mais-antigos](https://user-images.githubusercontent.com/47828514/223846949-3dd0a96e-7b1f-455d-a019-7f7b10d3a777.png)
   <h1> 🏀 MAIORES ARENAS</h1>
-<img src = "https://github.com/themonsteer/db-nba/blob/main/img/maiores-arenas.PNG?raw=true">
-  
+
+![maiores-arenas](https://user-images.githubusercontent.com/47828514/223848318-cfae6c1e-40e5-4000-9d29-cb252a606ef7.png)
+
 <hr>
   
   <h1>Gráficos</h1>
@@ -100,6 +101,7 @@ exploratória feita em cima do conjunto de dados selecionados. </p>
   
 <img src = "https://github.com/themonsteer/db-nba/blob/main/graficos/times-mais-antigos.PNG?raw=true">
   <h1> 🏀 MAIORES ARENAS</h1>
+  
 <img src = "https://github.com/themonsteer/db-nba/blob/main/graficos/maiores-arenas.PNG?raw=true">
   
  <hr>
