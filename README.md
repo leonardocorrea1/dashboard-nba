@@ -102,8 +102,7 @@ exploratória feita em cima do conjunto de dados selecionados. </p>
 ![times-mais-antigos (1)](https://user-images.githubusercontent.com/47828514/223851285-f082fe88-aa69-4f27-8183-8ed1b02b8b1a.png)
   <h1> 🏀 MAIORES ARENAS</h1>
   
-![times-mais-antigos (1)](https://user-images.githubusercontent.com/47828514/223851285-f082fe88-aa69-4f27-8183-8ed1b02b8b1a.png)
-
+![maiores-arenas (1)](https://user-images.githubusercontent.com/47828514/223851758-fcb75cfa-2c5e-49de-8f0c-589edd319e9e.png)
  <hr>
   
   <h1>🏀 TIME <h1>
