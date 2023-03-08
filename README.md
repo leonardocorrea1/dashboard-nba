@@ -65,7 +65,7 @@ exploratória feita em cima do conjunto de dados selecionados. </p>
 <h1>Retorno das Consultas</h1>
   
   <h1> 🏀 TIMES COM MAIS VITÓRIAS </h1>
-<img src = "https://github.com/themonsteer/db-nba/blob/main/img/times-mais-vitorias.PNG?raw=true">
+![times-mais-vitorias](https://user-images.githubusercontent.com/47828514/223833946-edf739b3-bb86-4ed0-891b-d88f60d6b1fc.png)
   <h1> 🏀 TIMES COM MAIS VITÓRIAS FORA DE CASA </h1>
 <img src = "https://github.com/themonsteer/db-nba/blob/main/img/times-vitorias-fora.PNG?raw=true">
   <h1> 🏀 TIMES COM MAIS DERROTAS ATÉ 01/03/2020 </h1>
