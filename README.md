@@ -103,5 +103,10 @@ exploratória feita em cima do conjunto de dados selecionados. </p>
    
 <p>  <a href="https://www.linkedin.com/in/leonardocorr%C3%AAadasilva/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px"></a> </p>
 
+   
+<h2>Jonatan Silva: </h2>
+<p> <a href="https://github.com/JonSilv4" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" style="border-radius: 30px"></a> </p>
+   
+<p>  <a href="" target="_blank"><img src="https://img.shields.io/badghttps://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAADrZa-QBBF6k4qLgaw4jm6sL-Q6uTUjexkw&keywords=jonatan%20silva&origin=RICH_QUERY_SUGGESTION&position=0&searchId=9fda1002-7a0a-4a58-8c3f-c9f79117b67f&sid=X9te/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px"></a> </p>
 
 
