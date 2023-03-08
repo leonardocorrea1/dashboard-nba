@@ -42,7 +42,8 @@ exploratória feita em cima do conjunto de dados selecionados. </p>
 <h4>Os bancos de dados relacionais são um tipo de banco de dados que armazena e organiza pontos de dados com relações definidas para acesso rápido. Com um banco de dados relacional, os dados são organizados em tabelas que contêm informações sobre cada entidade e representam categorias predefinidas por meio de linhas e colunas.<h4>
 
 
-<img src="https://raw.githubusercontent.com/themonsteer/db-nba/main/diagrama-model/diagrama.PNG">
+![diagrama](https://user-images.githubusercontent.com/47828514/223832131-22f690df-8449-4ce0-b469-588eab1840bb.png)
+
 
 
 <hr>
