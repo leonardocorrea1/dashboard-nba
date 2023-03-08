@@ -89,7 +89,8 @@ exploratória feita em cima do conjunto de dados selecionados. </p>
  
    
   <h1> 🏀 TIMES COM MAIS VITÓRIAS </h1>  
-![times-mais-vitorias](https://user-images.githubusercontent.com/47828514/223833946-edf739b3-bb86-4ed0-891b-d88f60d6b1fc.png)
+  
+![time-mais-vitorias](https://user-images.githubusercontent.com/47828514/223849418-1efce645-3643-4c9d-96fb-24770040b3c3.png)
   <h1> 🏀 TIMES COM MAIS VITÓRIAS FORA DE CASA </h1>
   
 ![times-vitorias-fora](https://user-images.githubusercontent.com/47828514/223841272-ad7132c8-f028-4ab9-9efd-b53a12486257.png)
