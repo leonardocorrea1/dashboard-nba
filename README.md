@@ -93,8 +93,7 @@ exploratória feita em cima do conjunto de dados selecionados. </p>
 ![time-mais-vitorias](https://user-images.githubusercontent.com/47828514/223849418-1efce645-3643-4c9d-96fb-24770040b3c3.png)
   <h1> 🏀 TIMES COM MAIS VITÓRIAS FORA DE CASA </h1>
   
-![times-vitorias-fora](https://user-images.githubusercontent.com/47828514/223841272-ad7132c8-f028-4ab9-9efd-b53a12486257.png)
-
+![times-vitorias-fora (1)](https://user-images.githubusercontent.com/47828514/223849965-70220d75-3599-47ec-92ad-30532a7c63c8.png)
   <h1> 🏀 TIMES COM MAIS DERROTAS ATÉ 01/03/2020 </h1>
 ![times-mais-derrotas](https://user-images.githubusercontent.com/47828514/223845442-e6a5ef0f-8579-41f3-82ba-a64848935a84.png)
 
