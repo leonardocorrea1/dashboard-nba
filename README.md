@@ -95,11 +95,11 @@ exploratória feita em cima do conjunto de dados selecionados. </p>
   
 ![times-vitorias-fora (1)](https://user-images.githubusercontent.com/47828514/223849965-70220d75-3599-47ec-92ad-30532a7c63c8.png)
   <h1> 🏀 TIMES COM MAIS DERROTAS ATÉ 01/03/2020 </h1>
-![times-mais-derrotas](https://user-images.githubusercontent.com/47828514/223845442-e6a5ef0f-8579-41f3-82ba-a64848935a84.png)
-
+  
+![times-mais-derrotas (1)](https://user-images.githubusercontent.com/47828514/223850520-3fb8cbde-e395-4914-99cf-6421e286e587.png)
   <h1> 🏀 TIMES MAIS ANTIGOS </h1>
   
-<img src = "https://github.com/themonsteer/db-nba/blob/main/graficos/times-mais-antigos.PNG?raw=true">
+
   <h1> 🏀 MAIORES ARENAS</h1>
   
 <img src = "https://github.com/themonsteer/db-nba/blob/main/graficos/maiores-arenas.PNG?raw=true">
